@@ -1,6 +1,6 @@
 ---
 title: 'Dear Startups: I Hate Subscription Services'
-subtitle: Subscription Overload is the New Bandwagon
+subtitle: 'Subscription Overload is the New Bandwagon'
 description: 'While SaaS models work for B2B and many other industries, it's not a one-size-fits-all tool to keep your startup afloat. There is a bubble in subscriptions.'
 date: '2021-05-18T16:19:46.146Z'
 template: post

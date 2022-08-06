@@ -1,5 +1,5 @@
 ---
-title: Covid Revealed The Failures of the American College Application System
+title: 'Covid Revealed The Failures of the American College Application System'
 subtitle: >-
   What is “involution,” and why is it representative of disillusioned American
   students?

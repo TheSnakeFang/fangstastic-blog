@@ -1,6 +1,6 @@
 ---
-title: Why You’ve Already Broken Your New Year’s Resolutions
-subtitle: Cultivate daily habits using SMART goals and daily planning.
+title: 'Why You’ve Already Broken Your New Year’s Resolutions'
+subtitle: 'Cultivate daily habits using SMART goals and daily planning.'
 description: 'New Year's Resolutions don't work. We need to use SMART goals and effective planning to build habits and streamline thinking. Learn effective strategies...'
 date: '2021-01-30T15:03:31.384Z'
 template: post
