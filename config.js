@@ -11,7 +11,7 @@ module.exports = {
   useKatex: false,
   author: {
     name: `Kevin Fang`,
-    summary: `, undergraduate at cmu and incorrigible amnesiac.`,
+    summary: `| undergraduate at cmu and incorrigible amnesiac.`,
     social: {
       twitter: `kevinfangstastic`,
       github: `thesnakefang`,

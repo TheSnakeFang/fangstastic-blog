@@ -1,11 +1,8 @@
 ---
 title: What Is A College Application “Spike” And Should I Have One?
-description: 'Answer: no. Covering the newest fad amongst college admissions forums.'
+subtitle: 'Answer: no. Covering the newest fad amongst college admissions forums.'
+description: ''
 date: '2020-07-29T18:00:07.939Z'
-categories: []
-keywords: []
-slug: >-
-  /what-is-a-college-application-spike-and-should-i-have-one
 template: post
 ---
 
@@ -63,4 +60,4 @@ Alternatively, donate a new library.
 
 I’m sure that will work better.
 
-_For further reading:_ [_The College Application “Spike” Is Dumb. Now What?_](https://medium.com/college-admissions-central/the-college-application-spike-is-dumb-now-what-6ffcc9764f5c)[_To Be Admitted To Any Ivy League, First Stop Being Infatuated With It_](https://medium.com/college-admissions-central/to-be-admitted-to-an-ivy-league-stop-being-infatuated-with-it-2a2529890b7d)
+_Part 2:_ [_The College Application “Spike” Is Dumb. Now What?_](https://medium.com/college-admissions-central/the-college-application-spike-is-dumb-now-what-6ffcc9764f5c)
