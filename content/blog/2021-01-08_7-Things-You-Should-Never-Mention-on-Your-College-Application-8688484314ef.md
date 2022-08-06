@@ -1,0 +1,29 @@
+---
+title: 7 Things You Should Never Mention on Your College Application
+description: Admissions officers see these as red flags.
+date: '2021-01-08T22:19:32.354Z'
+categories: []
+keywords: []
+slug: >-
+  /@fangtastic/7-things-you-should-never-mention-on-your-college-application-8688484314ef
+---
+
+![](C:\Users\kevin\OneDrive\Documents\GitHub\fangstastic-blog\posts\md_1659815002240\img\0__eabUWJeCKjf5BM2e.jpg)
+
+The college application process for many students represents the culmination of their high school journey, where all the hard work pays off with a letter of admission to what they hope will be their dream college.
+
+There is much discussion over what to focus on or include in an application — do schools prefer quantity over quality? Should students focus on the breadth or depth of experience? Do readers prefer simple language or sophisticated prose? While there is no single answer for how you should fill out your application, there are certain things you would be highly advised to think over their inclusion.
+
+These are not hard rules; however, why take additional risks unless there are commensurate benefits? The following is laid out from most to least severe:
+
+1.  **Potential Danger to Campus:** The foremost priority of a college is the safety and security of its campus, students, and staff. If you must explain previous criminal records or psychological conditions, get advice from your school’s college counselor or a professional advisor on how best to approach your application. Essays should focus on your journey through rehabilitation — the college should unequivocally believe you are not a threat to others.
+2.  **Radical Political Beliefs:** Choosing to take a strong political stance, especially if it is unpopular, is not recommended for most applicants. As you do not know your application reader’s ideologies, it is possible that their beliefs could clash strongly with those of the essays you have written and result in conscious or unconscious bias. Unless your personal identity, major, or application revolves around activism and politics (and thus you must mention it), sticking with inoffensive topics and widely held policy views is a safer bet.
+3.  **Discriminatory Statements:** It should go without saying that racist, sexist, and other discriminatory remarks/beliefs should not be included in your application. Not only are the demographics (and personal beliefs) of your application readers unknown to you, but prejudice is also not a trait colleges are looking for in their incoming class. If you are writing an essay regarding how your beliefs changed over time, focus on the journey upward and be firm that your current stance(s) does not present any risk to the student body.
+4.  **Academic Dishonesty/Fraud:** Your application should be airtight and not give the application readers any reason to suspect deceit or chicanery. If you must explain a previous case of plagiarism or fraud on your transcript, clarify that it was in the past, and describe how you have learned and charged for that experience. Before submitting, verify that descriptions of extracurriculars, transcripts, and classes match all the materials you submit (including transcripts and recommendation letters).
+5.  **Addiction/Drugs:** take a measured approach regarding writing about drug use or other addictions. A few students have asked me regarding writing about video game dependence —unless there is a gap in your profile or otherwise that requires an explanation, I would think critically about how you could frame it. Colleges do not want to enroll students who are likely to drop out or hurt themselves and others because of dependencies or addictions, but on the other hand, fighting or triumphing over personal challenges can form strong narratives.
+6.  **Dependence on Parents:** From my observations, colleges like independent students who take the initiative to pursue fields they, themselves, find interesting. Some promising students fall apart in university when they are no longer micromanaged by their helicopter parents and gain a modicum of personal freedom, so suggesting your parents pushed your extracurriculars onto you or showing a lack of personal interest or drive in your essays may also be a red flag.
+7.  **Shortcomings and Flaws:** It may be difficult for many students to talk about themselves without feeling like they are bragging; however, keep descriptions of personal foibles and weaknesses to a minimum. There are only 650 words on your personal statement and less for each of your supplements; allot minimum space to informing application readers of reasons why you _shouldn’t_ be admitted.
+
+After reading the above, a reader may feel that anything negative should not be included. This is not necessarily true. Flaws and vulnerability create human, memorable stories. However, the more “negative” the trait or story, the more deft a hand is needed to come off as someone readers genuinely want on campus. Few application readers wish to be the one to approve an active pyromaniac, for example; no matter how high the GPA, it cannot be a good look if the student they pushed to accept burns down a dorm building.
+
+Remember that admissions officers are on your side — they want you to give them reasons to accept you. You want to be memorable, someone who sticks out from the hundreds of nameless applications that cross their table each day. Focusing on creating a genuine identity, a real person who as a package can be inserted into the ideal next student body — that draws readers in more than hyper-focusing on increasing a test score or grade by a marginal fraction.
