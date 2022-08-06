@@ -5,7 +5,7 @@ module.exports = {
   description: `Kevin's collection of random scribblings`,
   pathPrefix: '/',
   title: `A Fangtastic Blog`,
-  disqusShortname: 'TheSnakeFang',
+  disqusShortname: 'kevinfang',
   postsPerPage: 15,
   googleAnalyticsId: 'G-VZ5C60X8HV',
   useKatex: false,
@@ -13,7 +13,7 @@ module.exports = {
     name: `Kevin Fang`,
     summary: `| undergraduate at cmu and incorrigible amnesiac.`,
     social: {
-      twitter: `kevinfangstastic`,
+      twitter: `kevinfangtastic`,
       github: `thesnakefang`,
       email: `kevinfang@cmu.edu`,
       linkedin: `hirekevinfang`,
