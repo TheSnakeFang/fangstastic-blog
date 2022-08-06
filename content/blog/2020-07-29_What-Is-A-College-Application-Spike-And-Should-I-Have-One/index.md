@@ -6,6 +6,7 @@ categories: []
 keywords: []
 slug: >-
   /what-is-a-college-application-spike-and-should-i-have-one
+template: post
 ---
 
 ![](./0__LxguM8OQ6HZpf__Vp.jpg)
