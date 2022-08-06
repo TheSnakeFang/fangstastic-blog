@@ -1,24 +1,24 @@
 'use strict';
 
 module.exports = {
-  url: `https://abhaynikam.github.io/gatsby-nice-blog/`,
-  description: `A nice starter blog post boilerplate template built using Gatsby.`,
+  url: `https://blog.kevinfang.tech`,
+  description: `Kevin's collection of random scribblings`,
   pathPrefix: '/',
-  title: `Nice Blogs`,
-  disqusShortname: '',
+  title: `A Fangtastic Blog`,
+  disqusShortname: 'TheSnakeFang',
   postsPerPage: 15,
   googleAnalyticsId: '',
   useKatex: false,
   author: {
-    name: `Abhay Nikam`,
-    summary: `, Ruby on Rails and Frontend developer from Pune, India.`,
+    name: `Kevin Fang`,
+    summary: `, undergraduate at cmu and incorrigible amnesiac.`,
     social: {
-      twitter: `abhaynikam13`,
-      github: `abhaynikam`,
-      email: `nikam.abhay1@gmail.com`,
-      linkedin: `abhaynikam`,
+      twitter: `kevinfangstastic`,
+      github: `thesnakefang`,
+      email: `kevinfang@cmu.edu`,
+      linkedin: `hirekevinfang`,
       facebook: ``,
-      instagram: ``,
+      instagram: `kevinfang.tech`,
     },
   }
 };
