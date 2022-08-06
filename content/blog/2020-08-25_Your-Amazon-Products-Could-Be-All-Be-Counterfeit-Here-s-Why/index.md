@@ -1,7 +1,7 @@
 ---
-title: 'Your Amazon Products Could Be All Be Counterfeit — Here’s Why.'
+title: 'Your Amazon Products Could Be All Be Counterfeit — Here's Why.'
 subtitle: 'Amazon sacrificed accountability for efficiency and profit.'
-description: 'Counterfeits are common on Amazon's marketplace. Here's how sellers hijack listings and ship knock-offs, undercutting sellers and defrauding consumers.'
+description: "Counterfeits are common on Amazon's marketplace. Here's how sellers hijack listings and ship knock-offs, undercutting sellers and defrauding consumers."
 date: '2020-08-25T05:49:38.082Z'
 template: post
 ---

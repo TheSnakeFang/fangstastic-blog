@@ -1,7 +1,7 @@
 ---
-title: The College Application “Spike” Is Dumb. Now What?
+title: "The College Application 'Spike' Is Dumb. Now What?"
 subtitle: 'How to be admitted to top universities, the better way.'
-description: '"Spike," is a myopic way to view the extracurricular process for college admissions, and promoting one-size-fits-all strategies is harmful to students.'
+description: "'Spike,' is a myopic way to view the extracurricular process for college admissions, and promoting one-size-fits-all strategies is harmful to students."
 date: '2021-08-15T22:02:23.623Z'
 template: post
 ---
