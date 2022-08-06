@@ -44,8 +44,8 @@ const Layout = ({ location, title, children }) => {
           <main>{children}</main>
           <footer className="d-flex">
             <div className="copyright-text">
-              💙 Made with love by&nbsp;
-              <a href="http://kevinfang.tech">Kevin</a>
+              💙 Make a donation to&nbsp;
+              <a href="https://reproductiverights.org/">reproductive rights</a>
             </div>
             <div className="footer-icon-group">
               <FooterSocialIcons />

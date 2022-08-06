@@ -1,11 +1,10 @@
 ---
 title: 'Do You Actually Want To Study Undergraduate Computer Science?'
-subtitle: 'CS applicants — more competitive and numerous than ever.'
+subheading: 'CS applicants — more competitive and numerous than ever.'
 description: "Some students who choose Computer Science as their major aren't sure if it's a good choice. Given how competitive college admissions for CS can be, there..."
 date: '2021-01-13T02:36:18.450Z'
 template: post
 ---
-
 ![](./0__halMpHytykslC7Fl.jpg)
 
 The question in the title might at first seem odd — what student applying to Computer Science (CS) doesn’t actually want to study it?

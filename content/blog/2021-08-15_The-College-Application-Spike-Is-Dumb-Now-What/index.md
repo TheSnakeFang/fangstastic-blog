@@ -1,6 +1,6 @@
 ---
 title: "The College Application 'Spike' Is Dumb. Now What?"
-subtitle: 'How to be admitted to top universities, the better way.'
+subheading: 'How to be admitted to top universities, the better way.'
 description: "'Spike,' is a myopic way to view the extracurricular process for college admissions, and promoting one-size-fits-all strategies is harmful to students."
 date: '2021-08-15T22:02:23.623Z'
 template: post
@@ -57,7 +57,7 @@ Regardless, if you’ve made it this far, you likely agree with my views on a �
 
 Ready for it? Here it is.
 
-![](C:\Users\kevin\OneDrive\Documents\GitHub\fangstastic-blog\posts\md_1659815002240\img\1__AcNITAdWLjNAdG5NWgX__WA.jpeg)
+![](./1__AcNITAdWLjNAdG5NWgX__WA.jpeg)
 
 A trident.
 
@@ -136,10 +136,3 @@ Perhaps “Spike” worked for you — if so, by all means, don’t let me t
 If you’re overwhelmed, I understand. Elite college admissions for the sake of prestige is pointless and ridiculous, and it’s easy for people to be caught in a hurricane of misinformation and rumors, surrounded by fanboys seeking to be admitted to a university for no particular reason past appeasing their own ego.
 
 Stick with doing what you love, focus on areas which have plenty of room for intersectionality, be a diverse and interesting person, and you will likely never go wrong.
-
-Or, as others may say,
-
-> [“Where others like being specialists, I like being a generalist.](https://www.allencheng.com/previous-work/#Why_I_Left_Medicine_for_Business)”
-
-_For further reading:  
-_[_To Be Admitted To Any Ivy League, First Stop Being Infatuated With It_](https://medium.com/college-admissions-central/to-be-admitted-to-an-ivy-league-stop-being-infatuated-with-it-2a2529890b7d)

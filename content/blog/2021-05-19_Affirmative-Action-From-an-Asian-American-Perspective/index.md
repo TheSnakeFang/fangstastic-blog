@@ -1,6 +1,6 @@
 ---
 title: Affirmative Action From an Asian American Perspective
-subtitle: An attempt at a nuanced understanding of race in college admissions
+subheading: An attempt at a nuanced understanding of race in college admissions
 description: 'I followed the proceedings of Students for Fair Admissions v. Harvard in October of last year and remember feeling worried — I would submit my college applications in just two months…'
 date: '2021-05-19T22:57:15.825Z'
 template: post
@@ -26,7 +26,7 @@ After all, private universities are for-profit institutions, and when the wealth
 
 The cynical part of me whispers that, if they could, many top universities would only admit the rich and well-connected, selecting only a few hand-picked stars out of the rest. Perhaps viewing college admissions as a battle between “the races” ignores the true effect that social class and engrained privilege have, though I would like to avoid any further broadening of political discussion in this article (race issues are controversial enough). Instead, here’s a chart:
 
-![](C:\Users\kevin\OneDrive\Documents\GitHub\fangstastic-blog\posts\md_1659815002240\img\0__KO0gKqUw__wuYwKqW.png)
+![](./0__KO0gKqUw__wuYwKqW.png)
 
 My parents were immigrants from China. They grew up with _Gao Kao_, the Chinese college entrance exam, looming over their head, an ever-present sorting hat of their future success. The idea of a single test, one result determining your future, is shared among Asian countries, an “inside joke” like overly strict parents, which one laughs about in public then cries about in private.
 
@@ -44,7 +44,7 @@ Is there no solution then? Do we live in a zero-sum world where to give more opp
 
 I don’t think so. There are ways to fix racial differences without using quotas. Universities can begin with increasing admitted students — far easier as many campuses continue to be empty due to the pandemic. Instead of fighting over the pie, we can increase its size and cut costs while we do it. [Scott Galloway](https://medium.com/u/a76508074bec) has some [brilliant articles on this](https://www.profgalloway.com/post-corona-higher-ed-part-deux/).
 
-![](C:\Users\kevin\OneDrive\Documents\GitHub\fangstastic-blog\posts\md_1659815002240\img\1__AOK4SfFtQ1TFq2hEXHH26g.jpeg)
+![](./1__AOK4SfFtQ1TFq2hEXHH26g.jpeg)
 
 Spend money creating education and developmental opportunities in low-income areas. Decrease the effectiveness of legacy and “friends and family of staff” on admissions chances. Realize that universities are the symbol of America’s future, of a new generation of educated youths who will break with the old and invent the new. They should not be burdened by believing they were admitted or rejected to a university because of factors they were born with and cannot change — or whether or not their parents play golf on Sundays with the dean ([Caltech](https://www.cnbc.com/2019/03/16/top-universities-that-do-not-consider-legacy-when-admitting-students.html#:~:text=The%20public%20institutions%20on%20the,do%20not%20consider%20legacy%20status.) and [MIT](https://mitadmissions.org/blogs/entry/just-to-be-clear-we-dont-do-legacy/) seem to be doing quite fine so far).
 

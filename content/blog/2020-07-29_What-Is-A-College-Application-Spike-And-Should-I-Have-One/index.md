@@ -1,6 +1,6 @@
 ---
 title: "What Is A College Application 'Spike' And Should I Have One?"
-subtitle: 'Answer: no. Covering the newest fad amongst college admissions forums.'
+subheading: 'Answer: no. Covering the newest fad amongst college admissions forums.'
 description: "'Spike' is a myopic way to view the extracurricular process for college admissions, and promoting one-size-fits-all strategies is harmful to students. Inventing 'world-changing' ideas solely to be admitted into a T20 or Ivy League is unlikely to succeed."
 date: '2020-07-29T18:00:07.939Z'
 template: post
@@ -46,9 +46,7 @@ The truth is, changing the world or achieving accolades professionals spend deca
 
 If your entire application revolves around a single item, you’re in essence depending on it as the sole argument for admission. It’s incredibly risky — what if it doesn’t work out and you have nothing at the end? Plenty of brilliant ideas with years of planning are derailed because of events completely out of anyone’s control — say, a global pandemic. If your “Spike” is a competition-related activity, you better win first place, because the AO has no reason not to select the student who placed one spot higher (and who potentially has other interests and activities in comparison to your single one) instead.
 
-> “….the reason OP’s post makes me slightly angry is because the idea of aiming for excellence in order to get into HYPS+ is like reorienting your entire life around buying as many lottery tickets as possible. Sure, it will work out for some people through random chance, but that doesn’t make it a good life decision!”
-
-> — [Current Assistant Director of Admissions at MIT](https://www.reddit.com/r/ApplyingToCollege/comments/fqo68j/aos_cant_actually_detect_authenticity_or_passion/flu6ovu/?context=10000).
+> “….the reason OP’s post makes me slightly angry is because the idea of aiming for excellence in order to get into HYPS+ is like reorienting your entire life around buying as many lottery tickets as possible. Sure, it will work out for some people through random chance, but that doesn’t make it a good life decision!” <br> — [Current Assistant Director of Admissions at MIT](https://www.reddit.com/r/ApplyingToCollege/comments/fqo68j/aos_cant_actually_detect_authenticity_or_passion/flu6ovu/?context=10000).
 
 Having a passion project and pursuing it at an advanced level is one thing, but to argue that everyone _needs to_ have one, _needs to_ magically discover the one thing they will devote their life to in their high school tenure, _needs to_ achieve significant recognition in that specific field during those four years, just to be considered a “successful student” and admitted to a good university?
 

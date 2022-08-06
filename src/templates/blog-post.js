@@ -21,6 +21,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO
         title={post.frontmatter.title}
+        subheading={post.frontmatter.subheading}
         description={post.frontmatter.description || post.excerpt}
       />
       <article
@@ -29,10 +30,9 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <h1 itemProp = "subtitle"> {post.frontmatter.subtitle}</h1>
+          <h2 itemProp="subheading">{post.frontmatter.subheading}</h2>
           <p>{post.frontmatter.date}</p>
         </header>
-        <h1 itemProp = "subtitle"> {post.frontmatter.subtitle}</h1>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
@@ -96,6 +96,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
+        subheading
         description
         template
       }
