@@ -29,7 +29,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <h1 itemProp="subtitle">{post.frontmatter.subtitle}</h1>
+          <h2>{post.frontmatter.subtitle}</h2>
           <p>{post.frontmatter.date}</p>
         </header>
         <section
