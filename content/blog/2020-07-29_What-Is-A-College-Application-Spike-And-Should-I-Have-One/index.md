@@ -1,7 +1,7 @@
 ---
 title: What Is A College Application “Spike” And Should I Have One?
 subtitle: 'Answer: no. Covering the newest fad amongst college admissions forums.'
-description: ''
+description: '"Spike" is a myopic way to view the extracurricular process for college admissions, and promoting one-size-fits-all strategies is harmful to students. Inventing "world-changing" ideas solely to be admitted into a T20 or Ivy League is unlikely to succeed.'
 date: '2020-07-29T18:00:07.939Z'
 template: post
 ---
