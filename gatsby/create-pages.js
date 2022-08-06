@@ -26,9 +26,9 @@ const createPages = async ({ graphql, actions, reporter }) => {
             }
             frontmatter {
               date(formatString: "DD MMMM, YYYY")
-              title
               subtitle
               template
+              title
             }
           }
         }

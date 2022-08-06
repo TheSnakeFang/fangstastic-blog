@@ -14,7 +14,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const isNextPostTemplate = next && next.node.frontmatter.template === "post";
   const disqusConfig = {
     shortname: disqusShortname,
-    config: { identifier: slug, title: post.frontmatter.title },
+    config: { identifier: slug, title: post.frontmatter.title},
   }
 
   return (
@@ -29,9 +29,10 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <h2>{post.frontmatter.subtitle}</h2>
+          <h1 itemProp = "subtitle"> {post.frontmatter.subtitle}</h1>
           <p>{post.frontmatter.date}</p>
         </header>
+        <h1 itemProp = "subtitle"> {post.frontmatter.subtitle}</h1>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
