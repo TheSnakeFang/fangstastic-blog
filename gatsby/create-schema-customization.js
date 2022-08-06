@@ -32,6 +32,7 @@ const createSchemaCustomization = ({ actions }) => {
 
     type Frontmatter {
       title: String
+      subtitle: String
       description: String
       date: Date @dateformat
     }
