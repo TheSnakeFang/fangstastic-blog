@@ -5,10 +5,10 @@ date: '2020-07-29T18:00:07.939Z'
 categories: []
 keywords: []
 slug: >-
-  /@fangtastic/what-is-a-college-application-spike-and-should-i-have-one-b7e776e92f09
+  /what-is-a-college-application-spike-and-should-i-have-one
 ---
 
-![](C:\Users\kevin\OneDrive\Documents\GitHub\fangstastic-blog\posts\md_1659815002240\img\0__LxguM8OQ6HZpf__Vp.jpg)
+![](./0__LxguM8OQ6HZpf__Vp.jpg)
 
 One of the first questions I am asked by some students beginning the college application process: “What extracurriculars will _guarantee_ my admission into Harvard?”
 
