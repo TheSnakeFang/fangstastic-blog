@@ -7,7 +7,7 @@ module.exports = {
   title: `A Fangtastic Blog`,
   disqusShortname: 'TheSnakeFang',
   postsPerPage: 15,
-  googleAnalyticsId: '',
+  googleAnalyticsId: 'G-VZ5C60X8HV',
   useKatex: false,
   author: {
     name: `Kevin Fang`,
