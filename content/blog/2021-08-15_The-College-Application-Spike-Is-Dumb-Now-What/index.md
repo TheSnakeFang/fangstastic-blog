@@ -8,11 +8,11 @@ template: post
 
 ![](./0__K9oimv5dJjn1yQTK.jpg)
 
-To preface, this is the continuation of an article I wrote about a year back, titled “[What Is A College Application “Spike” And Should I Have One?](https://62eef63539e4632328d58a17--playful-torrone-ce5870.netlify.app/blog/2020-07-29_What-Is-A-College-Application-Spike-And-Should-I-Have-One/)”. It remains to this day my most visited article, likely due to PageRank placing it as a top search result.
+To preface, this is the continuation of an article I wrote about a year back, titled “[What Is A College Application “Spike” And Should I Have One?](https://blog.kevinfang.tech/blog/2020-07-29_What-Is-A-College-Application-Spike-And-Should-I-Have-One/)”. It remains to this day my most visited article, likely due to PageRank placing it as a top search result.
 
 _Merci_, Google.
 
-It’s no secret that I detest the term “Spike,” enough at least to write a 6-minute article about it ([read that piece first](https://medium.com/college-admissions-central/what-is-a-college-application-spike-and-should-i-have-one-b7e776e92f09) if you haven’t yet). In my view, it’s a horrifically misused term co-opted for anything and everything considered “significant,” from research to publishing papers to winning tournaments to playing at Carnegie Hall.
+It’s no secret that I detest the term “Spike,” enough at least to write a 6-minute article about it (read that post first if you haven’t yet). In my view, it’s a horrifically misused term co-opted for anything and everything considered “significant,” from research to publishing papers to winning tournaments to playing at Carnegie Hall.
 
 Sure, if doing great things is a spike, then having spikes is great — but so often it becomes a way to hyper-focus all activities solely on the field one wishes to study, ignoring “little” ECs for singular gambles into restrictive high-risk/high reward ventures.
 
@@ -34,7 +34,7 @@ Any strategy which works for all necessarily is too broad to be specifically app
 
 However, I will admit there are still can be some benefits to reading about college admissions advice (you are still here, after all). Taken with a grain of salt, the unique opinions and perspectives provided can give greater insights into how one's peers and the applicant community itself view the overall admissions process.
 
-For the group who understands the inherent flaws of giving specific advice broadly (and who also know that I possess no real qualifications), I will present not only a strategy that I believe to be healthier than the “Spike” but is easily adapted from it and still maintains some level of metaphorical similarity.
+For the group who understands the inherent flaws of giving specific advice broadly (and who also know that I possess no real qualifications), I will present not only a "complete" strategy that I believe to be healthier than the “Spike” but is easily adapted from it and still maintains some level of metaphorical similarity.
 
 If you’re looking for a perfect replacement for the “Spike,” you should close this article now — or just read [Applying Sideways](https://mitadmissions.org/blogs/entry/applying_sideways/) again.
 
@@ -138,3 +138,5 @@ If you’re overwhelmed, I understand. Elite college admissions for the sake of 
 Stick with doing what you love, focus on areas which have plenty of room for intersectionality, be a diverse and interesting person, and you will likely never go wrong.
 
 >*Originally published on [Medium](https://medium.com/college-admissions-central/the-college-application-spike-is-dumb-now-what-6ffcc9764f5c)*
+
+>*Part one also was initially published on [Medium](https://medium.com/college-admissions-central/what-is-a-college-application-spike-and-should-i-have-one-b7e776e92f09)*

@@ -12,8 +12,8 @@ const useSiteMetadata = () => {
               name
             }
             social {
-              twitter
               github
+              linkedin
               email
             }
           }
