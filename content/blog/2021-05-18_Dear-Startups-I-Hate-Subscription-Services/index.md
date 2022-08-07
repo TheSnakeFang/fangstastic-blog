@@ -49,3 +49,5 @@ Investors and founders need to realize that removing options and placing them be
 And to Adobe? I’m no anarchist, but keep this up [and watch the number of pirated copies of your software grow exponentially](https://www.revenera.com/blog/software-monetization/adobe-photoshop-creative-cloud-has-been-pirated/).
 
 There are [creative ways to do pricing](https://dueapp.zendesk.com/hc/en-us/articles/360053244591-What-is-the-Upgrade-Pass-). The consumer wants to pay you — let them.
+
+>*Originally published on [Medium](https://fangtastic.medium.com/dear-startups-i-hate-subscription-services-aecefeb0f089)*

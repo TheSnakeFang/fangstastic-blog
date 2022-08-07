@@ -136,3 +136,5 @@ Perhaps “Spike” worked for you — if so, by all means, don’t let me t
 If you’re overwhelmed, I understand. Elite college admissions for the sake of prestige is pointless and ridiculous, and it’s easy for people to be caught in a hurricane of misinformation and rumors, surrounded by fanboys seeking to be admitted to a university for no particular reason past appeasing their own ego.
 
 Stick with doing what you love, focus on areas which have plenty of room for intersectionality, be a diverse and interesting person, and you will likely never go wrong.
+
+>*Originally published on [Medium](https://medium.com/college-admissions-central/the-college-application-spike-is-dumb-now-what-6ffcc9764f5c)*
