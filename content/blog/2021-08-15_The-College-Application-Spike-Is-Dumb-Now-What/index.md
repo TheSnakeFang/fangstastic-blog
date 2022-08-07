@@ -8,7 +8,7 @@ template: post
 
 ![](./0__K9oimv5dJjn1yQTK.jpg)
 
-To preface, this is the continuation of an article I wrote about a year back, titled “[What Is A College Application “Spike” And Should I Have One?](https://medium.com/college-admissions-central/what-is-a-college-application-spike-and-should-i-have-one-b7e776e92f09)”. It remains to this day my most visited article, likely due to PageRank placing it as a top search result.
+To preface, this is the continuation of an article I wrote about a year back, titled “[What Is A College Application “Spike” And Should I Have One?](https://62eef63539e4632328d58a17--playful-torrone-ce5870.netlify.app/blog/2020-07-29_What-Is-A-College-Application-Spike-And-Should-I-Have-One/)”. It remains to this day my most visited article, likely due to PageRank placing it as a top search result.
 
 _Merci_, Google.
 
@@ -57,7 +57,7 @@ Regardless, if you’ve made it this far, you likely agree with my views on a �
 
 Ready for it? Here it is.
 
-![](./1__AcNITAdWLjNAdG5NWgX__WA.jpeg)
+![](./1_AcNITAdWLjNAdG5NWgX-WA.jpeg)
 
 A trident.
 
@@ -91,7 +91,7 @@ Let’s break apart the parts of the Trident so we can analyze how it all comes 
 
 **Tines** — A tine is a sharp point on a trident, and it represents a stab made at being interesting (jabs the reader). Preferably, it incorporates an interest you have, a skill you learned, and a character trait you represent.
 
-**Example:** Mike used his skill in website design, the character traits of creativity and humor, and his interest in poetry to create the annual “Worst Opening Sentence Competition,” a [now-viral online tongue-in-cheek contest](https://www.bulwer-lytton.com/) to create a deliberately bad sentence to begin a novel or work of fiction.
+> **Example:** Mike used his skill in website design, the character traits of creativity and humor, and his interest in poetry to create the annual “Worst Opening Sentence Competition,” a [now-viral online tongue-in-cheek contest](https://www.bulwer-lytton.com/) to create a deliberately bad sentence to begin a novel or work of fiction.
 
 “Spikes” can easily be transformed into Tines — they are both tapered barbs, after all. What frees the applicant is the knowledge that you don’t need to be №1 in the world or meet some arbitrary bar of “success” in order to qualify as a Tine. Mike still can submit his website to competitions or measure # of daily visitors on some online leaderboard, but the key is that he doesn’t have to.
 
@@ -107,7 +107,7 @@ So what? Does that make them stand out?
 
 Your central theme should be unique. The tines will help, with each activity being based on a founding principle — curiosity, creativity, humor, kindness. A theme should move past the actions themselves and go forward in time — why did you do what you have done, and how will that desire manifest itself in the career choices you make and the person you will become?
 
-**Example:** Mariam is an adventurous person. She enjoys rock climbing with her mother and uncle on weekends and hosts fantasy D&D campaigns on her YouTube channel, CrucialRepresentation. Mariam’s confidence and charisma lead her to pursue an active role in environmental conservationism, speaking up at town halls and state assemblies. She is led by a guiding belief that the world we envision in our hearts (and on the D&D board) can be achieved in reality, if only we try hard enough.
+> **Example:** Mariam is an adventurous person. She enjoys rock climbing with her mother and uncle on weekends and hosts fantasy D&D campaigns on her YouTube channel, CrucialRepresentation. Mariam’s confidence and charisma lead her to pursue an active role in environmental conservationism, speaking up at town halls and state assemblies. She is led by a guiding belief that the world we envision in our hearts (and on the D&D board) can be achieved in reality, if only we try hard enough.
 
 **Wielder** — This one is all _you_. How well you write, how well you compose narration. Diction, syntax, and vocabulary are important. A deft stroke of humor can win over admissions officers sick of reading the same bland tropes for 8 hours a day. The final execution is a test in storytelling, of presenting your narrative in a way that sets you apart and humanizes you in the eyes of the reader.
 
@@ -115,7 +115,7 @@ Here’s a quick lesson on how the application review process goes at most unive
 
 In any university, you want the admissions officer to be your lawyer. They _want_ to be on your side and admit you — give them the ammo to fight for your acceptance. This is where execution matters. The “fun” supplementals, the “why college” essays, the sassy one-liner responses, the letters to your roommate. Show some character, personality, a product/market fit. Present yourself as someone the admissions officer can’t wait to meet on campus this fall.
 
-**Example:** Abhinav decided to include a story about his childhood experience with the YouTube channel “Parry Potter Puppet Pals,” humorous parody skits which inspired his current interest in video production and showbiz. Making the topic one of his supplemental essays, its lighthearted tone is a perfect place for Abhi to brag about some awards his indie film recently won.
+> **Example:** Abhinav decided to include a story about his childhood experience with the YouTube channel “Parry Potter Puppet Pals,” humorous parody skits which inspired his current interest in video production and showbiz. Making the topic one of his supplemental essays, its lighthearted tone is a perfect place for Abhi to brag about some awards his indie film recently won.
 
 Whew, that was long.
 

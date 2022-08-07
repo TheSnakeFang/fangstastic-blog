@@ -58,4 +58,4 @@ Alternatively, donate a new library.
 
 I’m sure that will work better.
 
-_Part 2:_ [_The College Application “Spike” Is Dumb. Now What?_](https://medium.com/college-admissions-central/the-college-application-spike-is-dumb-now-what-6ffcc9764f5c)
+_Part 2:_ [_The College Application “Spike” Is Dumb. Now What?_](https://62eef63539e4632328d58a17--playful-torrone-ce5870.netlify.app/blog/2021-08-15_The-College-Application-Spike-Is-Dumb-Now-What/)
