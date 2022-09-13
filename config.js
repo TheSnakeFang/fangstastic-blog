@@ -11,9 +11,9 @@ module.exports = {
   useKatex: false,
   author: {
     name: `Kevin Fang`,
-    summary: `| undergraduate at cmu and incorrigible amnesiac.`,
+    summary: `| birds of feather SSH.useFlock together`,
     social: {
-      twitter: `kevinfangtastic`,
+      twitter: ``,
       github: `thesnakefang`,
       email: `kevinfang@cmu.edu`,
       linkedin: `hirekevinfang`,
