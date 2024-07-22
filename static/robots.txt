@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /
+Disallow:
 
 Sitemap: https://blog.kevinfang.tech/sitemap.xml

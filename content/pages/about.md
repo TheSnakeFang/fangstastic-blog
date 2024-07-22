@@ -6,10 +6,10 @@ Hello, I'm Kevin.
 ‍
 Thank you for taking a look at my blog.
 
-I'm an undergrad student at Carnegie Mellon University currently studying Business Administration and Computer Science. 
+I'm a honors graduate of Carnegie Mellon University with majors in Computer Science and Business Administration. 
 
-Interests include lunar rover landing site viewshed analysis, ballroom dance, interior design, the color #7fc6b8, and spending 14 hours migrating my blog onto Medium instead of applying for jobs.
+Interests include lunar rover landing site viewshed analysis, ballroom dance, interior design, the color #7fc6b8, and spending 14 hours creating this stupid blog.
 
-If you or someone you know may be interested, I'm currently looking for an internship in SWE/PM/Consulting/Growth/anything exciting for Summer 2023. 
+Currently GTM @ Replo. Also working on an idea for a pricing model for content creator partnerships with sponsors + auto-email negotiation.
 
-Contact me at kevinfang@cmu.edu :rocket:
+If you want to chat, come on a podcast, or show me a JS framework that works, contact me at kevinfan@alumni.cmu.edu :rocket:
