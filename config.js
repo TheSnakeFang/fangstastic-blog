@@ -7,7 +7,7 @@ module.exports = {
   title: `Blog`,
   disqusShortname: 'kevinfang',
   postsPerPage: 15,
-  googleAnalyticsId: 'G-EHTVXTCS7M',
+  googleAnalyticsId: 'G-ND9JXM8MQ3',
   useKatex: false,
   author: {
     name: `Kevin Fang`,
