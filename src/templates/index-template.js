@@ -3,7 +3,7 @@ import { Link, graphql } from "gatsby";
 
 import Bio from "../components/bio";
 import Layout from "../components/layout";
-import SEO from "../components/seo";
+import Seo from "../components/seo";
 import Pagination from "../components/pagination";
 
 const BlogIndex = ({ data, location, pageContext }) => {
@@ -14,14 +14,15 @@ const BlogIndex = ({ data, location, pageContext }) => {
     hasNextPage,
     hasPrevPage,
     prevPagePath,
-    nextPagePath
+    nextPagePath,
+    totalPages
   } = pageContext;
   const currentPageInfo = currentPage > 0 ? `Page ${currentPage}` : '';
 
   if (edges.length === 0) {
     return (
       <Layout location={location} title={siteTitle}>
-        <SEO title={siteTitle} />
+        <Seo title={siteTitle} />
         <Bio />
         <p>
           No blog posts found. Add markdown posts to "content/blog" (or the
@@ -34,7 +35,7 @@ const BlogIndex = ({ data, location, pageContext }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title={siteTitle} />
+      <Seo title={siteTitle} />
       <ol className="blog-list">
         {edges.map(edge => {
           const title = edge.node.frontmatter.title || edge.node.fields.slug
@@ -55,6 +56,9 @@ const BlogIndex = ({ data, location, pageContext }) => {
         nextPagePath={nextPagePath}
         hasPrevPage={hasPrevPage}
         hasNextPage={hasNextPage}
+        isFirstPage={currentPage === 0}
+        isLastPage={currentPage === totalPages - 1}
+        totalPages={totalPages}
       />
     </Layout>
   )
@@ -63,17 +67,17 @@ const BlogIndex = ({ data, location, pageContext }) => {
 export default BlogIndex
 
 export const query = graphql`
-  query IndexTemplate($postsLimit: Int!, $postsOffset: Int!) {
+    query IndexTemplate($postsLimit: Int!, $postsOffset: Int!) {
     site {
       siteMetadata {
         title
       }
     }
     allMarkdownRemark(
-      limit: $postsLimit,
-      skip: $postsOffset,
-      filter: { frontmatter: { template: { eq: "post" } } },
-      sort: { order: DESC, fields: [frontmatter___date] }
+      limit: $postsLimit
+      skip: $postsOffset
+      filter: {frontmatter: {template: {eq: "post"}}}
+      sort: {frontmatter: {date: DESC}}
     ) {
       edges {
         node {

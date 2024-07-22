@@ -1,10 +1,10 @@
 import React from "react";
 import { Link, graphql } from "gatsby";
-import { DiscussionEmbed } from "disqus-react";
+// import { DiscussionEmbed } from "disqus-react";
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark;
@@ -12,14 +12,14 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const { previous, next } = pageContext;
   const isPostTemplate = post.frontmatter.template === "post";
   const isNextPostTemplate = next && next.node.frontmatter.template === "post";
-  const disqusConfig = {
+  /* const disqusConfig = {
     shortname: disqusShortname,
     config: { identifier: slug, title: post.frontmatter.title},
-  }
+  } */
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO
+      <Seo
         title={post.frontmatter.title}
         subheading={post.frontmatter.subheading}
         description={post.frontmatter.description || post.excerpt}
@@ -73,12 +73,12 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         </>
       )}
 
-      {isPostTemplate && (<DiscussionEmbed {...disqusConfig} />)}
-
       {isPostTemplate && (<footer><Bio /></footer>)}
     </Layout>
   )
 }
+
+/*  {isPostTemplate && (<DiscussionEmbed {...disqusConfig} />)} */
 
 export default BlogPostTemplate
 
