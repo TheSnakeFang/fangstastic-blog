@@ -2,20 +2,20 @@
 
 module.exports = {
   url: `https://blog.kevinfang.tech`,
-  description: `Kevin's collection of random scribblings`,
+  description: `Fang's collection of random scribblings`,
   pathPrefix: '/',
-  title: `Kevin Fang`,
+  title: `Blog`,
   disqusShortname: 'kevinfang',
   postsPerPage: 15,
   googleAnalyticsId: 'G-EHTVXTCS7M',
   useKatex: false,
   author: {
     name: `Kevin Fang`,
-    summary: `| birds of feather SSH.useFlock together`,
+    summary: `| trying to be a better human`,
     social: {
       twitter: ``,
       github: `thesnakefang`,
-      email: `kevinfang@cmu.edu`,
+      email: `kevinfan@alumni.cmu.edu`,
       linkedin: `hirekevinfang`,
       facebook: ``,
       instagram: `kevinfang.tech`,

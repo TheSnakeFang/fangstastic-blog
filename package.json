@@ -6,6 +6,7 @@
   "author": "Kevin Fang <kevinfan@alumni.cmu.edu>",
   "dependencies": {
     "@supabase/supabase-js": "^2.44.4",
+    "ai-digest": "^1.0.4",
     "classnames": "^2.5.1",
     "disqus-react": "^1.1.5",
     "dotenv": "^16.4.5",
