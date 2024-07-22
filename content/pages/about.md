@@ -10,6 +10,6 @@ I'm a honors graduate of Carnegie Mellon University with majors in Computer Scie
 
 Interests include lunar rover landing site viewshed analysis, ballroom dance, interior design, the color #7fc6b8, and spending 14 hours creating this stupid blog.
 
-Currently GTM @ Replo. Also working on an idea for a pricing model for content creator partnerships with sponsors + auto-email negotiation.
+Currently GTM @ Replo (hi yuxin!). Also working on an idea for a pricing model for content creator partnerships with sponsors + auto-email negotiation.
 
 If you want to chat, come on a podcast, or show me a JS framework that works, contact me at kevinfan@alumni.cmu.edu 🚀

@@ -45,7 +45,7 @@ const SubscriptionForm = () => {
 
   return (
     <div className="subscription-form">
-      <h2>Subscribe to Updates</h2>
+      <h2>Subscribe for Updates</h2>
       <form onSubmit={handleSubmit}>
         <input
           type="email"
