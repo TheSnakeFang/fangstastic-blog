@@ -1,5 +1,8 @@
 
 const siteConfig = require('./config.js');
+require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV}`,
+})
 
 module.exports = {
   siteMetadata: {
@@ -17,6 +20,34 @@ module.exports = {
       options: {
         path: `${__dirname}/content`,
         name: `blog`,
+      },
+    },
+    {resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        // You can add multiple tracking ids and a pageview event will be fired for all of them.
+        trackingIds: [
+          siteConfig.googleAnalyticsId, // Google Analytics / GA
+          // Removed the commented out tracking IDs as they're not needed
+        ],
+        // This object gets passed directly to the gtag config command
+        // This config will be shared across all trackingIds
+        gtagConfig: {
+          // Removed optimize_id as it's likely not needed unless you're using Google Optimize
+          anonymize_ip: true,
+          cookie_expires: 0,
+        },
+        // This object is used for configuration specific to this plugin
+        pluginConfig: {
+          // Puts tracking script in the head instead of the body
+          head: true, // Changed to true for faster tracking initialization
+          // Setting this parameter is optional
+          respectDNT: true,
+          // Avoids sending pageview hits from custom paths
+          exclude: ["/preview/**", "/do-not-track/me/too/"],
+          // Removed the origin option as it's typically not needed unless you're self-hosting the script
+          // Delays processing pageview events on route update (in milliseconds)
+          delayOnRouteUpdate: 0,
+        },
       },
     },
     {
@@ -73,12 +104,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-sitemap`,
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: siteConfig.googleAnalyticsId,
-      },
-    },
     `gatsby-plugin-sass`,
     {
         resolve: `gatsby-plugin-sass`,
@@ -100,6 +125,7 @@ module.exports = {
       },
    },
     'gatsby-plugin-dark-mode',
+    
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,

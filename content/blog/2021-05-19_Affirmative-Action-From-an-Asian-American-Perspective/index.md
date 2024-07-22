@@ -4,6 +4,7 @@ subheading: An attempt at a nuanced understanding of race in college admissions
 description: 'I followed the proceedings of Students for Fair Admissions v. Harvard in October of last year and remember feeling worried — I would submit my college applications in just two months…'
 date: '2021-05-19T22:57:15.825Z'
 template: post
+category: "Politics"
 ---
 
 ![](./0__0b1AOUjiXPd__c8lG.jpg)

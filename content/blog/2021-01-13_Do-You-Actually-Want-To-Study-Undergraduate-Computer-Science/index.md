@@ -4,6 +4,7 @@ subheading: 'CS applicants — more competitive and numerous than ever.'
 description: "Some students who choose Computer Science as their major aren't sure if it's a good choice. Given how competitive college admissions for CS can be, there..."
 date: '2021-01-13T02:36:18.450Z'
 template: post
+category: "College & Career"
 ---
 ![](./0__halMpHytykslC7Fl.jpg)
 

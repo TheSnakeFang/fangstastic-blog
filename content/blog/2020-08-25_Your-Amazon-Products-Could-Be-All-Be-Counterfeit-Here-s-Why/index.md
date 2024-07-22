@@ -4,6 +4,7 @@ subheading: 'Amazon sacrificed accountability for efficiency and profit.'
 description: "Counterfeits are common on Amazon's marketplace. Here's how sellers hijack listings and ship knock-offs, undercutting sellers and defrauding consumers."
 date: '2020-08-25T05:49:38.082Z'
 template: post
+category: "Technology"
 ---
 
 ![](./0__xGI8Jqhk8YJtALjZ.jpg)

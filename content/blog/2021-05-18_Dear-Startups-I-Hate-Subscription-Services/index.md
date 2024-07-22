@@ -4,6 +4,7 @@ subheading: 'Subscription Overload is the New Bandwagon'
 description: "While SaaS models work for B2B and many other industries, it's not a one-size-fits-all tool to keep your startup afloat. There is a bubble in subscriptions."
 date: "2021-05-18T16:19:46.146Z"
 template: post
+category: "Technology"
 ---
 
 ![](./1__u3Ijsd2UiUgCI6FcxMOwcQ.jpeg)

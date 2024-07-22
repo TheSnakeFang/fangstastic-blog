@@ -5,10 +5,12 @@ import Bio from "../components/bio";
 import Layout from "../components/layout";
 import Seo from "../components/seo";
 import Pagination from "../components/pagination";
+import SubscriptionForm from "../components/subscription-form"
 
 const BlogIndex = ({ data, location, pageContext }) => {
   const siteTitle = data.site.siteMetadata.title;
-  const { edges } = data.allMarkdownRemark;
+  const groups = data.allMarkdownRemark.group;
+  const totalCount = data.allMarkdownRemark.totalCount;
   const {
     currentPage,
     hasNextPage,
@@ -19,10 +21,11 @@ const BlogIndex = ({ data, location, pageContext }) => {
   } = pageContext;
   const currentPageInfo = currentPage > 0 ? `Page ${currentPage}` : '';
 
-  if (edges.length === 0) {
+  if (totalCount === 0) {
     return (
       <Layout location={location} title={siteTitle}>
         <Seo title={siteTitle} />
+        <SubscriptionForm />
         <Bio />
         <p>
           No blog posts found. Add markdown posts to "content/blog" (or the
@@ -36,20 +39,23 @@ const BlogIndex = ({ data, location, pageContext }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <Seo title={siteTitle} />
-      <ol className="blog-list">
-        {edges.map(edge => {
-          const title = edge.node.frontmatter.title || edge.node.fields.slug
-
-          return (
-            <li key={edge.node.fields.slug} className="blog-list-item">
-              <Link to={edge.node.fields.slug} itemProp="url" className="title">
-                <span itemProp="headline">{title}</span>
-              </Link>
-              <small className="date">{edge.node.frontmatter.date}</small>
-            </li>
-          )
-        })}
-      </ol>
+      <SubscriptionForm />
+      {groups.map(group => (
+        <div key={group.fieldValue} className="category-section">
+          <h2>{group.fieldValue}</h2>
+          <ul className="post-list">
+            {group.nodes.map(node => (
+              <li key={node.fields.slug}>
+                <Link to={node.fields.slug}>
+                  <h3>{node.frontmatter.title}</h3>
+                </Link>
+                <small>{node.frontmatter.date}</small>
+                <p>{node.frontmatter.description || node.excerpt}</p>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
       <div className="current-page-info">{currentPageInfo}</div>
       <Pagination
         prevPagePath={prevPagePath}
@@ -67,7 +73,7 @@ const BlogIndex = ({ data, location, pageContext }) => {
 export default BlogIndex
 
 export const query = graphql`
-    query IndexTemplate($postsLimit: Int!, $postsOffset: Int!) {
+  query IndexTemplate($postsLimit: Int!, $postsOffset: Int!) {
     site {
       siteMetadata {
         title
@@ -79,17 +85,19 @@ export const query = graphql`
       filter: {frontmatter: {template: {eq: "post"}}}
       sort: {frontmatter: {date: DESC}}
     ) {
-      edges {
-        node {
-          excerpt
+      totalCount
+      group(field: {frontmatter: {category: SELECT}}) {
+        fieldValue
+        totalCount
+        nodes {
           fields {
             slug
           }
           frontmatter {
-            date(formatString: "MMMM DD, YYYY")
             title
+            date(formatString: "MMMM DD, YYYY")
             description
-            subheading
+            category
           }
         }
       }

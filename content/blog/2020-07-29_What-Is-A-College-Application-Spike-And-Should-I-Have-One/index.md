@@ -4,6 +4,7 @@ subheading: 'Answer: no. Covering the newest fad amongst college admissions foru
 description: "'Spike' is a myopic way to view the extracurricular process for college admissions, and promoting one-size-fits-all strategies is harmful to students. Inventing 'world-changing' ideas solely to be admitted into a T20 or Ivy League is unlikely to succeed."
 date: '2020-07-29T18:00:07.939Z'
 template: post
+category: "College & Career"
 ---
 
 ![](./0__LxguM8OQ6HZpf__Vp.jpg)
