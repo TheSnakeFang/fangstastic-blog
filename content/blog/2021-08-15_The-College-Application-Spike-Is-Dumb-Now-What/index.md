@@ -1,8 +1,8 @@
 ---
 title: "The College Application 'Spike' Is Dumb. Now What?"
-subheading: 'How to be admitted to top universities, the better way.'
+subheading: "How to be admitted to top universities, the better way."
 description: "'Spike,' is a myopic way to view the extracurricular process for college admissions, and promoting one-size-fits-all strategies is harmful to students."
-date: '2021-08-15T22:02:23.623Z'
+date: "2021-08-15T22:02:23.623Z"
 template: post
 category: "College & Career"
 ---
@@ -43,10 +43,10 @@ To begin, let me tell you about the fundamentals of college applications, starti
 
 I go over the full concept of selling yourself in an application in a different article, posted whenever time allows — for the sake of brevity, here’s a quick summary:
 
-*   Universities look for many different types of people to round out their ideal image for next year’s diverse student body.
-*   While basic requirements (such as knowing students will not fail all their classes) must be met through GPA/tests, _everything else is subjective_.
-*   Your job is to sell yourself as representing a certain identity inside of that idealized vision — or being so outstanding they create that niche for you.
-*   To do so, you’ll need to first find what aspects of your character and profile, figure out how it “fits in,” and then devise a corresponding sell.
+- Universities look for many different types of people to round out their ideal image for next year’s diverse student body.
+- While basic requirements (such as knowing students will not fail all their classes) must be met through GPA/tests, _everything else is subjective_.
+- Your job is to sell yourself as representing a certain identity inside of that idealized vision — or being so outstanding they create that niche for you.
+- To do so, you’ll need to first find what aspects of your character and profile, figure out how it “fits in,” and then devise a corresponding sell.
 
 I understand that very few high schoolers have had professional experience selling any product or service at all, let alone one as abstract and confusing as their own skills, character, and personality as a complete package colleges wish to “purchase.”
 
@@ -62,7 +62,7 @@ Ready for it? Here it is.
 
 A trident.
 
-Your previous “Spike” is now only one part of a multi-pronged attack. Each tine should be a different field or subfield, backed by a long staff of core accomplishments, it must be wielded by a person — _you_ — who possess strong character, useful skills, and complete experiences.
+Your previous “Spike” is now only one part of a multi-pronged attack. Each tine should be a different field or subfield, backed by a long staff of core accomplishments, it must be wielded by a person — *you* — who possess strong character, useful skills, and complete experiences.
 
 Let me break down the metaphor for you by first listing out what is wrong with the “Spike,” and how the “Trident + Wielder” method addresses them.
 
@@ -138,6 +138,6 @@ If you’re overwhelmed, I understand. Elite college admissions for the sake of 
 
 Stick with doing what you love, focus on areas which have plenty of room for intersectionality, be a diverse and interesting person, and you will likely never go wrong.
 
->*Originally published on [Medium](https://medium.com/college-admissions-central/the-college-application-spike-is-dumb-now-what-6ffcc9764f5c)*
+> _Originally published on [Medium](https://medium.com/college-admissions-central/the-college-application-spike-is-dumb-now-what-6ffcc9764f5c)_
 
->*Part one also was initially published on [Medium](https://medium.com/college-admissions-central/what-is-a-college-application-spike-and-should-i-have-one-b7e776e92f09)*
+> _Part one also was initially published on [Medium](https://medium.com/college-admissions-central/what-is-a-college-application-spike-and-should-i-have-one-b7e776e92f09)_

@@ -1,13 +1,13 @@
-'use strict';
+"use strict"
 
 module.exports = {
   url: `https://blog.kevinfang.tech`,
   description: `Fang's collection of random scribblings`,
-  pathPrefix: '/',
+  pathPrefix: "/",
   title: `Kevin Fang`,
-  disqusShortname: 'kevinfang',
+  disqusShortname: "kevinfang",
   postsPerPage: 15,
-  googleAnalyticsId: 'G-ND9JXM8MQ3',
+  googleAnalyticsId: "G-ND9JXM8MQ3",
   useKatex: false,
   author: {
     name: `Kevin Fang`,
@@ -20,5 +20,5 @@ module.exports = {
       facebook: ``,
       instagram: `kevinfang.tech`,
     },
-  }
-};
+  },
+}

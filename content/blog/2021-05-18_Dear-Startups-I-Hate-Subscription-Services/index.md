@@ -1,6 +1,6 @@
 ---
-title: 'Dear Startups: I Hate Subscription Services'
-subheading: 'Subscription Overload is the New Bandwagon'
+title: "Dear Startups: I Hate Subscription Services"
+subheading: "Subscription Overload is the New Bandwagon"
 description: "While SaaS models work for B2B and many other industries, it's not a one-size-fits-all tool to keep your startup afloat. There is a bubble in subscriptions."
 date: "2021-05-18T16:19:46.146Z"
 template: post
@@ -39,9 +39,9 @@ The worst part is, software companies already know the expected LTV (lifetime va
 
 Poorly designed software pricing models are, in many ways, a digital version of the terrible “mystery box” subscription services, which continue to plague social media advertisements to this day. Both suffer from the same issues:
 
-*   **Pricy solution in search of a cheap problem.** Why would consumers [pay a startup for safety razor cartridges](https://www.profitwell.com/recur/all/boxedout-dollar-shave-club) that cost 1/8th of the price to subscribe and save at Amazon? Similarly, why would anyone want to [pay a monthly subscription for an alarm clock app](https://www.tomsguide.com/us/pictures-story/641-best-clock-apps.html)?
-*   **Lack of customer retention.** If a user pays upfront for a product, they will feel compelled to use it daily to get their money’s worth. Building brand loyalty [allows companies to upsell more items and services, gaining a cult following](https://www.retentionscience.com/blog/customer-loyalty-vs-brand-loyalty/). On the other hand, companies like Birchbox and subscription apps [can have up to a 20% monthly churn rate](https://recurly.com/research/churn-rate-benchmarks/).
-*   **Boom and Bust model.** Box of the Month and high-profile subscription services like Quibi raise millions ([and the case of the latter 1.75 billion](https://techcrunch.com/2020/10/23/the-short-strange-life-of-quibi/#:~:text=A%20month%20ahead%20of%20its,give%20or%20take%20%24100%20million.)) in funding [yet fizzle out just as fast](https://news.crunchbase.com/news/venture-funding-subscription-startups-tapers-off/), burning through the capital on expensive marketing campaigns and celebrity endorsements rather than long-term investment or delivering actual value to the customer. Highly reminiscent of dropshipping scams.
+- **Pricy solution in search of a cheap problem.** Why would consumers [pay a startup for safety razor cartridges](https://www.profitwell.com/recur/all/boxedout-dollar-shave-club) that cost 1/8th of the price to subscribe and save at Amazon? Similarly, why would anyone want to [pay a monthly subscription for an alarm clock app](https://www.tomsguide.com/us/pictures-story/641-best-clock-apps.html)?
+- **Lack of customer retention.** If a user pays upfront for a product, they will feel compelled to use it daily to get their money’s worth. Building brand loyalty [allows companies to upsell more items and services, gaining a cult following](https://www.retentionscience.com/blog/customer-loyalty-vs-brand-loyalty/). On the other hand, companies like Birchbox and subscription apps [can have up to a 20% monthly churn rate](https://recurly.com/research/churn-rate-benchmarks/).
+- **Boom and Bust model.** Box of the Month and high-profile subscription services like Quibi raise millions ([and the case of the latter 1.75 billion](https://techcrunch.com/2020/10/23/the-short-strange-life-of-quibi/#:~:text=A%20month%20ahead%20of%20its,give%20or%20take%20%24100%20million.)) in funding [yet fizzle out just as fast](https://news.crunchbase.com/news/venture-funding-subscription-startups-tapers-off/), burning through the capital on expensive marketing campaigns and celebrity endorsements rather than long-term investment or delivering actual value to the customer. Highly reminiscent of dropshipping scams.
 
 While SaaS models work wonderfully for B2B and many industries, some apps and programs are best sold as-is, a buy-once and forget-about-it deal, which may not make the company an infinite-growth unicorn (do you really need [ten thousand employees](https://www.nytimes.com/2022/03/08/business/better-mortgage-lender-layoffs.html)) but can result in everyone involved living comfortable, financially secure lives with the resources to invest in their next great idea. Upselling through in-app purchases and notifications for other products in your ecosystem is easier when customers keep using your app because they don’t have to pay weekly or monthly to maintain it.
 
@@ -51,4 +51,4 @@ And to Adobe? I’m no anarchist, but keep this up [and watch the number of pira
 
 There are [creative ways to do pricing](https://dueapp.zendesk.com/hc/en-us/articles/360053244591-What-is-the-Upgrade-Pass-). The consumer wants to pay you — let them.
 
->*Originally published on [Medium](https://fangtastic.medium.com/dear-startups-i-hate-subscription-services-aecefeb0f089)*
+> _Originally published on [Medium](https://fangtastic.medium.com/dear-startups-i-hate-subscription-services-aecefeb0f089)_

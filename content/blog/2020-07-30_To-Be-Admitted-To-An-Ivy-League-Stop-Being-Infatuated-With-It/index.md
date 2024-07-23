@@ -1,8 +1,8 @@
 ---
-title: 'To Be Admitted To An Ivy League, Stop Being Infatuated With It'
-subheading: 'Clout-chasing is a disease.'
-description: 'Higher education is a tool, not a medal. This article covers T20 college admissions, Ivy Leagues, competition, admissions officers, and superficial success.'
-date: '2020-07-30T00:22:21.715Z'
+title: "To Be Admitted To An Ivy League, Stop Being Infatuated With It"
+subheading: "Clout-chasing is a disease."
+description: "Higher education is a tool, not a medal. This article covers T20 college admissions, Ivy Leagues, competition, admissions officers, and superficial success."
+date: "2020-07-30T00:22:21.715Z"
 template: post
 category: "College & Career"
 ---

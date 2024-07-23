@@ -1,5 +1,4 @@
-
-const siteConfig = require('./config.js');
+const siteConfig = require("./config.js")
 require("dotenv").config({
   path: `.env.${process.env.NODE_ENV}`,
 })
@@ -22,7 +21,8 @@ module.exports = {
         name: `blog`,
       },
     },
-    {resolve: `gatsby-plugin-google-gtag`,
+    {
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
         // You can add multiple tracking ids and a pageview event will be fired for all of them.
         trackingIds: [
@@ -106,7 +106,7 @@ module.exports = {
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-sass`,
     {
-        resolve: `gatsby-plugin-sass`,
+      resolve: `gatsby-plugin-sass`,
       options: {
         implementation: require("sass"),
       },
@@ -123,9 +123,9 @@ module.exports = {
         display: `minimal-ui`,
         icon: `content/assets/gatsby-icon.png`,
       },
-   },
-    'gatsby-plugin-dark-mode',
-    
+    },
+    "gatsby-plugin-dark-mode",
+
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,

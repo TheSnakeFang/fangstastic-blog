@@ -1,25 +1,25 @@
-import React from "react";
-import { Link, graphql } from "gatsby";
+import React from "react"
+import { Link, graphql } from "gatsby"
 
-import Bio from "../components/bio";
-import Layout from "../components/layout";
-import Seo from "../components/seo";
-import Pagination from "../components/pagination";
+import Bio from "../components/bio"
+import Layout from "../components/layout"
+import Seo from "../components/seo"
+import Pagination from "../components/pagination"
 import SubscriptionForm from "../components/subscription-form"
 
 const BlogIndex = ({ data, location, pageContext }) => {
-  const siteTitle = data.site.siteMetadata.title;
-  const groups = data.allMarkdownRemark.group;
-  const totalCount = data.allMarkdownRemark.totalCount;
+  const siteTitle = data.site.siteMetadata.title
+  const groups = data.allMarkdownRemark.group
+  const totalCount = data.allMarkdownRemark.totalCount
   const {
     currentPage,
     hasNextPage,
     hasPrevPage,
     prevPagePath,
     nextPagePath,
-    totalPages
-  } = pageContext;
-  const currentPageInfo = currentPage > 0 ? `Page ${currentPage}` : '';
+    totalPages,
+  } = pageContext
+  const currentPageInfo = currentPage > 0 ? `Page ${currentPage}` : ""
 
   if (totalCount === 0) {
     return (
@@ -82,11 +82,11 @@ export const query = graphql`
     allMarkdownRemark(
       limit: $postsLimit
       skip: $postsOffset
-      filter: {frontmatter: {template: {eq: "post"}}}
-      sort: {frontmatter: {date: DESC}}
+      filter: { frontmatter: { template: { eq: "post" } } }
+      sort: { frontmatter: { date: DESC } }
     ) {
       totalCount
-      group(field: {frontmatter: {category: SELECT}}) {
+      group(field: { frontmatter: { category: SELECT } }) {
         fieldValue
         totalCount
         nodes {

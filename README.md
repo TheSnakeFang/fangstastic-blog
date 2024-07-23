@@ -6,7 +6,6 @@
 
 This blog is based on the original boilerplate blog template by [Abhay Nikam](https://www.abhaynikam.me/pages/about) at https://github.com/abhaynikam/gatsby-nice-blog
 
-
 ## Contributing (Template)
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/abhaynikam/gatsby-nice-blog. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/abhaynikam/gatsby-nice-blog/blob/master/CODE_OF_CONDUCT.md).
@@ -16,7 +15,9 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/abhayn
 The boilerplate blog template is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Contributors (Template)
+
 [Chinmay Mehta](https://github.com/chinmaym07)
 
 ## Contributors (Blog)
+
 [Kevin Fang](https://github.com/thesnakefang)

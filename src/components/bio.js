@@ -9,19 +9,21 @@ import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 
 const Bio = () => {
-  const data = useStaticQuery(graphql`query BioQuery {
-  site {
-    siteMetadata {
-      author {
-        name
-        summary
-      }
-      social {
-        linkedin
+  const data = useStaticQuery(graphql`
+    query BioQuery {
+      site {
+        siteMetadata {
+          author {
+            name
+            summary
+          }
+          social {
+            linkedin
+          }
+        }
       }
     }
-  }
-}`)
+  `)
 
   // Set these values by editing "siteMetadata" in gatsby-config.js
   const author = data.site.siteMetadata?.author

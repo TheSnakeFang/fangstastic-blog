@@ -1,8 +1,8 @@
 ---
-title: 'Why You’ve Already Broken Your New Year’s Resolutions'
-subheading: 'Cultivate daily habits using SMART goals and daily planning.'
+title: "Why You’ve Already Broken Your New Year’s Resolutions"
+subheading: "Cultivate daily habits using SMART goals and daily planning."
 description: "New Year's Resolutions don't work. We need to use SMART goals and effective planning to build habits and streamline thinking. Learn effective strategies..."
-date: '2021-01-30T15:03:31.384Z'
+date: "2021-01-30T15:03:31.384Z"
 template: post
 category: "Self-Improvement"
 ---
@@ -21,17 +21,17 @@ Resolutions are, in essence, ultimatums, designed to reward your subconscious fo
 
 While this may sound like a good resolution, it is a terrible ultimatum. Immediately after its conception, your subconscious begins to poke holes in it.
 
-*   What amount of exercise counts as _enough_?
-*   When do I exercise? Could I push it back a bit?
-*   What is the punishment if I _don’t_ exercise?
+- What amount of exercise counts as _enough_?
+- When do I exercise? Could I push it back a bit?
+- What is the punishment if I _don’t_ exercise?
 
 **It is human nature to analyze rules for their boundaries and loopholes** — it’s what allows us to minimize work and find minor advantages in our daily lives. While you might assume keeping your resolution vague allows you to avoid breaking your resolution, in reality, it opens up more ways for your subconscious to weasel out of work.
 
 To address this, brainstorm answers to these questions, and if need be, write them down on a piece of paper.
 
-*   I will complete exactly 30 minutes of a HIIT exercise video.
-*   It will begin within an hour of arriving home every evening.
-*   If I miss a session, I will not go on social media or watch TV until the next time I exercise.
+- I will complete exactly 30 minutes of a HIIT exercise video.
+- It will begin within an hour of arriving home every evening.
+- If I miss a session, I will not go on social media or watch TV until the next time I exercise.
 
 Having strict rules streamlines thinking — eventually, you should move from task to task without even thinking about it. Building signaling networks to do this subconsciously requires effort — and many repetitions. James Clear recommends what he calls “implementation intentions” — writing statements that fix actions at a time and place.
 
@@ -43,8 +43,8 @@ Now that we know how to avoid breaking commitments, let’s work on brainstormin
 
 **Specific:** if requirements are vague — or unmeasurable — how do you know if you are fulfilling them? As an example, two vague goals:
 
-*   “I will go to the gym” — How often? When? What exercises?
-*   “I’ll eat healthier” — At all meals? How much does your diet change?
+- “I will go to the gym” — How often? When? What exercises?
+- “I’ll eat healthier” — At all meals? How much does your diet change?
 
 **Goals need to be specific and direct.** You shouldn’t divert energy into considering whether an action is allowed — going back to streamlined thinking, adding ambiguity allows internal conflict and detracts from your ability to resist temptations.
 
@@ -66,9 +66,9 @@ If you advance carefully, only increasing intensity when you feel comfortable, f
 
 Losing half a pound per week is preferable to losing twenty in the first half of the year and gaining it back in the second — set easily measurable, realistic goals you can commit to regularly and gradually scale up. A New Year’s Resolution has a fixed timeframe, so ask yourself:
 
-*   What can I do in a year?
-*   How about in six months?
-*   When the next year comes around, where do I want to be?
+- What can I do in a year?
+- How about in six months?
+- When the next year comes around, where do I want to be?
 
 If you feel overwhelmed, you aren’t alone — planning is tough. Take some time to digest everything, and don’t be afraid to write down reflections and notes!
 

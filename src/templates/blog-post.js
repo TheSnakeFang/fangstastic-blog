@@ -1,5 +1,5 @@
-import React from "react";
-import { Link, graphql } from "gatsby";
+import React from "react"
+import { Link, graphql } from "gatsby"
 // import { DiscussionEmbed } from "disqus-react";
 
 import Bio from "../components/bio"
@@ -7,11 +7,11 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
-  const post = data.markdownRemark;
+  const post = data.markdownRemark
   const { title: siteTitle, slug, disqusShortname } = data.site.siteMetadata
-  const { previous, next } = pageContext;
-  const isPostTemplate = post.frontmatter.template === "post";
-  const isNextPostTemplate = next && next.node.frontmatter.template === "post";
+  const { previous, next } = pageContext
+  const isPostTemplate = post.frontmatter.template === "post"
+  const isNextPostTemplate = next && next.node.frontmatter.template === "post"
   /* const disqusConfig = {
     shortname: disqusShortname,
     config: { identifier: slug, title: post.frontmatter.title},
@@ -24,10 +24,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         subheading={post.frontmatter.subheading}
         description={post.frontmatter.description || post.excerpt}
       />
-      <article
-        itemScope
-        className="blog-post"
-      >
+      <article itemScope className="blog-post">
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <h2 itemProp="subheading">{post.frontmatter.subheading}</h2>
@@ -73,7 +70,11 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         </>
       )}
 
-      {isPostTemplate && (<footer><Bio /></footer>)}
+      {isPostTemplate && (
+        <footer>
+          <Bio />
+        </footer>
+      )}
     </Layout>
   )
 }

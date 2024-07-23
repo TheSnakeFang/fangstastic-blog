@@ -1,12 +1,12 @@
 // @flow strict
-import React from "react";
-import { useSiteMetadata } from "../hooks";
+import React from "react"
+import { useSiteMetadata } from "../hooks"
 
 import Seo from "../components/seo"
-import Layout from "../components/layout";
+import Layout from "../components/layout"
 
 const NotFoundTemplate = ({ location }) => {
-  const { title } = useSiteMetadata();
+  const { title } = useSiteMetadata()
 
   return (
     <Layout location={location} title={title}>
@@ -15,6 +15,6 @@ const NotFoundTemplate = ({ location }) => {
       <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
     </Layout>
   )
-};
+}
 
-export default NotFoundTemplate;
+export default NotFoundTemplate

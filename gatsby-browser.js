@@ -10,4 +10,4 @@ import "./src/style.css"
 import "prismjs/themes/prism.css"
 
 // font
-import "typeface-barlow";
+import "typeface-barlow"

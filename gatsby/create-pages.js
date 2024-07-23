@@ -1,21 +1,20 @@
+"use strict"
 
-'use strict';
-
-const path = require('path');
-const createPostsPages = require('./pagination/create-posts-pages.js');
+const path = require("path")
+const createPostsPages = require("./pagination/create-posts-pages.js")
 
 const createPages = async ({ graphql, actions, reporter }) => {
   const { createPage } = actions
 
   // 404
   createPage({
-    path: '/404',
-    component: path.resolve('./src/templates/not-found-template.js')
-  });
+    path: "/404",
+    component: path.resolve("./src/templates/not-found-template.js"),
+  })
 
   const result = await graphql(`
     {
-      allMarkdownRemark(sort: {frontmatter: {date: DESC}}, limit: 1000) {
+      allMarkdownRemark(sort: { frontmatter: { date: DESC } }, limit: 1000) {
         edges {
           node {
             fields {
@@ -31,12 +30,12 @@ const createPages = async ({ graphql, actions, reporter }) => {
         }
       }
     }
-  `);
+  `)
 
   if (result.errors) {
     reporter.panicOnBuild(
       `There was an error loading your blog posts`,
-      result.errors
+      result.errors,
     )
     return
   }
@@ -59,7 +58,7 @@ const createPages = async ({ graphql, actions, reporter }) => {
     })
   }
 
-  await createPostsPages(graphql, actions);
+  await createPostsPages(graphql, actions)
 }
 
-module.exports = createPages;
+module.exports = createPages

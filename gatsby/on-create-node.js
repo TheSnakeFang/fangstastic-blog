@@ -1,6 +1,6 @@
-'use strict';
+"use strict"
 
-const { createFilePath } = require('gatsby-source-filesystem');
+const { createFilePath } = require("gatsby-source-filesystem")
 
 const onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions
@@ -16,4 +16,4 @@ const onCreateNode = ({ node, actions, getNode }) => {
   }
 }
 
-module.exports = onCreateNode;
+module.exports = onCreateNode

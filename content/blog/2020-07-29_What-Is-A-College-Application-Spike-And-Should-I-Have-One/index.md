@@ -1,8 +1,8 @@
 ---
 title: "What Is A College Application 'Spike' And Should I Have One?"
-subheading: 'Answer: no. Covering the newest fad amongst college admissions forums.'
+subheading: "Answer: no. Covering the newest fad amongst college admissions forums."
 description: "'Spike' is a myopic way to view the extracurricular process for college admissions, and promoting one-size-fits-all strategies is harmful to students. Inventing 'world-changing' ideas solely to be admitted into a T20 or Ivy League is unlikely to succeed."
-date: '2020-07-29T18:00:07.939Z'
+date: "2020-07-29T18:00:07.939Z"
 template: post
 category: "College & Career"
 ---
@@ -61,4 +61,4 @@ I’m sure that will work better.
 
 _Part 2:_ [_The College Application “Spike” Is Dumb. Now What?_](https://blog.kevinfang.tech/blog/2021-08-15_The-College-Application-Spike-Is-Dumb-Now-What/)
 
->*Originally published on [Medium](https://medium.com/college-admissions-central/what-is-a-college-application-spike-and-should-i-have-one-b7e776e92f09)*
+> _Originally published on [Medium](https://medium.com/college-admissions-central/what-is-a-college-application-spike-and-should-i-have-one-b7e776e92f09)_

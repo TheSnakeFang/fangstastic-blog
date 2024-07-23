@@ -1,4 +1,4 @@
-'use strict';
+"use strict"
 
 const createSchemaCustomization = ({ actions }) => {
   const { createTypes } = actions
@@ -43,4 +43,4 @@ const createSchemaCustomization = ({ actions }) => {
   `)
 }
 
-module.exports = createSchemaCustomization;
+module.exports = createSchemaCustomization

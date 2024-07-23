@@ -1,18 +1,19 @@
 ---
-title: 'Do You Actually Want To Study Undergraduate Computer Science?'
-subheading: 'CS applicants — more competitive and numerous than ever.'
+title: "Do You Actually Want To Study Undergraduate Computer Science?"
+subheading: "CS applicants — more competitive and numerous than ever."
 description: "Some students who choose Computer Science as their major aren't sure if it's a good choice. Given how competitive college admissions for CS can be, there..."
-date: '2021-01-13T02:36:18.450Z'
+date: "2021-01-13T02:36:18.450Z"
 template: post
 category: "College & Career"
 ---
+
 ![](./0__halMpHytykslC7Fl.jpg)
 
 The question in the title might at first seem odd — what student applying to Computer Science (CS) doesn’t actually want to study it?
 
 I’ll start by saying — if you compete in Code Jam, go on GitHub more than social media, or spend your free time on Linux forums shilling for Arch — this article isn’t for you.
 
-Where I grew up, however, students were by default a CS major_._ Unless you had firm beliefs regarding your major or intended career, the common consensus was “just study CS, and you’ll work it out later.”
+Where I grew up, however, students were by default a CS major*.* Unless you had firm beliefs regarding your major or intended career, the common consensus was “just study CS, and you’ll work it out later.”
 
 Perhaps they’re not wrong. CS pays well, with job opportunities in innumerable fields. Tech as a sector grows day-by-day, and the benefits of working from home only look more appealing in the time of a pandemic. Low-risk, unathletic, good pay, broadly applicable, easy-to-learn — who wouldn’t recommend CS as the go-to major for wavering high school students not yet sure of their purpose in life?
 
@@ -32,10 +33,10 @@ I say this not to scare, but to inform prospective students: there are systemic 
 
 Knowing all this, should I major in CS? My recommendation is to ask yourself these four questions first:
 
-*   Am I willing to attend a less-prestigious or less-competitive university to study CS there?
-*   Are there fields I enjoy and would rather do? Could I major in that field and take CS as a minor instead?
-*   Will I take the initiative to learn new things, constantly being in a state of change and adaptation to survive?
-*   Am I actually interested in CS, enough to spend years taking demanding classes and sandbagging GPA to learn it? (Remember, CS isn’t just coding.)
+- Am I willing to attend a less-prestigious or less-competitive university to study CS there?
+- Are there fields I enjoy and would rather do? Could I major in that field and take CS as a minor instead?
+- Will I take the initiative to learn new things, constantly being in a state of change and adaptation to survive?
+- Am I actually interested in CS, enough to spend years taking demanding classes and sandbagging GPA to learn it? (Remember, CS isn’t just coding.)
 
 The greatest worry I have is that students will go to a university that is not a good fit for them simply because their family or peers pressure them to attend a school with a good CS program. Then, faced with the immense workload for a subject they are not interested in, it leaves them with the decision to either change majors in a college they dislike — or to drop everything and leave altogether.
 
