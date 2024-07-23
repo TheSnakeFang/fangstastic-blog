@@ -4,7 +4,7 @@ module.exports = {
   url: `https://blog.kevinfang.tech`,
   description: `Fang's collection of random scribblings`,
   pathPrefix: '/',
-  title: `Blog`,
+  title: `Kevin Fang`,
   disqusShortname: 'kevinfang',
   postsPerPage: 15,
   googleAnalyticsId: 'G-ND9JXM8MQ3',
