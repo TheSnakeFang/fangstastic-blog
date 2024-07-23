@@ -2750,17 +2750,6 @@ adjust-sourcemap-loader@3.0.0:
     loader-utils "^2.0.0"
     regex-parser "^2.2.11"
 
-ai-digest@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/ai-digest/-/ai-digest-1.0.4.tgz#91a8c9a090825f9f6902d66ba0eeb7253d5c71d0"
-  integrity sha512-eeXyGRtYm4SylgDNNnFRalL2fbWYGefYlm1c0hLtTe668gywA1j1e1w9TV7SGD/HOAZViVwC1Bz/nTsLIOQsDQ==
-  dependencies:
-    commander "^12.1.0"
-    glob "^11.0.0"
-    ignore "^5.3.1"
-    isbinaryfile "^5.0.2"
-    js-tiktoken "^1.0.12"
-
 ajv-formats@^2.1.1:
   version "2.1.1"
   resolved "https://registry.npmjs.org/ajv-formats/-/ajv-formats-2.1.1.tgz"
