@@ -9,7 +9,7 @@ import SubscriptionForm from "../components/subscription-form"
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
-  const { title: siteTitle, slug, disqusShortname } = data.site.siteMetadata
+  const { title: siteTitle, slug } = data.site.siteMetadata
   const { previous, next } = pageContext
   const isPostTemplate = post.frontmatter.template === "post"
   const isNextPostTemplate = next && next.node.frontmatter.template === "post"
@@ -90,7 +90,6 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
-        disqusShortname
       }
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {

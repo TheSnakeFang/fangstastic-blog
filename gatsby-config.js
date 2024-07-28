@@ -10,7 +10,7 @@ module.exports = {
     description: siteConfig.description,
     siteUrl: siteConfig.url,
     social: siteConfig.author.social,
-    disqusShortname: siteConfig.disqusShortname,
+    // disqusShortname: siteConfig.disqusShortname,
   },
   pathPrefix: siteConfig.pathPrefix, // TODO: Add path prefix as github repository name to deploy to github pages.
   plugins: [

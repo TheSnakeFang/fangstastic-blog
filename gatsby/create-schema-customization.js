@@ -23,6 +23,7 @@ const createSchemaCustomization = ({ actions }) => {
 
     type Social {
       linkedin: String
+      twitter: String
     }
 
     type MarkdownRemark implements Node {
