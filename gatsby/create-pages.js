@@ -2,10 +2,9 @@
 
 const path = require("path")
 const createPostsPages = require("./pagination/create-posts-pages.js")
-const slugify = require("slugify")
 
 const createPages = async ({ graphql, actions, reporter }) => {
-  const { createPage, createRedirect } = actions
+  const { createPage } = actions
 
   // 404
   createPage({
@@ -47,28 +46,15 @@ const createPages = async ({ graphql, actions, reporter }) => {
       const previous = index === posts.length - 1 ? null : posts[index + 1]
       const next = index === 0 ? null : posts[index - 1]
 
-      const newSlug = postEdge.node.fields.slug
-      const oldSlug = `/blog/${slugify(postEdge.node.frontmatter.title, { strict: true })}/`
-
       createPage({
-        path: newSlug,
+        path: postEdge.node.fields.slug,
         component: path.resolve(`./src/templates/blog-post.js`),
         context: {
-          slug: newSlug,
+          slug: postEdge.node.fields.slug,
           previous,
           next,
         },
       })
-
-      // Create redirect if the new slug is different from the old one
-      if (oldSlug !== newSlug) {
-        createRedirect({
-          fromPath: oldSlug,
-          toPath: newSlug,
-          isPermanent: true,
-          redirectInBrowser: true,
-        })
-      }
     })
   }
 
