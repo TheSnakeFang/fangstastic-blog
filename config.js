@@ -10,10 +10,10 @@ module.exports = {
   googleAnalyticsId: "G-ND9JXM8MQ3",
   useKatex: false,
   author: {
-    name: `Kevin Fang`,
+    name: `Kevin Fang `,
     summary: `| trying to be a better human`,
     social: {
-      twitter: ``,
+      twitter: `kevinfangtastic`,
       github: `thesnakefang`,
       email: `kevinfan@alumni.cmu.edu`,
       linkedin: `hirekevinfang`,

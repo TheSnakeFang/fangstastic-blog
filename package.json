@@ -6,6 +6,7 @@
   "author": "Kevin Fang <kevinfan@alumni.cmu.edu>",
   "dependencies": {
     "@supabase/supabase-js": "^2.44.4",
+    "add": "^2.0.6",
     "classnames": "^2.5.1",
     "disqus-react": "^1.1.5",
     "dotenv": "^16.4.5",
@@ -27,6 +28,7 @@
     "gatsby-source-filesystem": "^5.13.1",
     "gatsby-transformer-remark": "^6.13.1",
     "gatsby-transformer-sharp": "^5.13.1",
+    "node-html-markdown": "^1.3.0",
     "prismjs": "^1.29.0",
     "ramda": "^0.30.1",
     "react": "^18.3.1",

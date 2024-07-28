@@ -19,13 +19,13 @@ Was I wrong to do that? Applications ask questions such as, “How can you add d
 
 I do not have definitive answers for these questions, and discussions regarding race issues in the United States are a faux pas — unless you intend to ruin Thanksgiving dinner for everyone.
 
-Under the lens of capitalism, there is little-to-no reason to admit many Asian Americans. As the children of immigrants, we are often frugal (unwilling to become committed donors), are unlikely to gain considerable political power (1.25% of Congress), and have little social representation (in Hollywood or Wall Street). Instead, international Asian students from places such as Singapore, Hong Kong, and Shanghai supplant domestic applicants, wealthy foreign families gladly paying six-figure tuition fees to give their children American educations.
+Under the lens of capitalism, there is little-to-no reason to admit many Asian Americans. As the children of immigrants, we are often frugal (unwilling to become committed donors), are unlikely to gain considerable political power (1.25% of Congress), and have little social representation (in Hollywood or Wall Street). Instead, international Asian students from places such as Singapore, Seoul, and Shanghai supplant domestic applicants, wealthy foreign families gladly paying six-figure tuition fees to give their children American educations and escape their countries’ domestic college admissions crunch.
 
 After all, private universities are for-profit institutions, and when the wealthy and powerful send their kids to your university, it’s a win-win situation. Prestigious schools earn their spot at the top by reinvesting in deep alumni networks, courting wealthy donors, and using their position of power to advance their reputation and further recruit the next generation of talent.
 
 > “43% of white Harvard admittees \[are\] recruited athletes, friends and family of staff, and legacy.” — [Legacy and Athlete Preferences at Harvard](https://www.nber.org/papers/w26316#:~:text=Harvard%20University%20provided%20an%20unprecedented,faculty%20and%20staff%20%28ALDCs%29.).
 
-The cynical part of me whispers that, if they could, many top universities would only admit the rich and well-connected, selecting only a few hand-picked stars out of the rest. Perhaps viewing college admissions as a battle between “the races” ignores the true effect that social class and engrained privilege have, though I would like to avoid any further broadening of political discussion in this article (race issues are controversial enough). Instead, here’s a chart:
+If they could, every top university would only admit the rich and well-connected, selecting only a few hand-picked stars out of the rest. Perhaps viewing college admissions as a battle between “the races” ignores the true effect that social class and engrained privilege have, though I would like to avoid any further broadening of political discussion in this article (race issues are controversial enough). Instead, here’s a chart:
 
 ![](./0_KO0gKqUw_wuYwKqW.png)
 
