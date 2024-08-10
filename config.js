@@ -2,7 +2,7 @@
 
 module.exports = {
   url: `https://blog.kevinfang.tech`,
-  description: `Fang's collection of random scribblings`,
+  description: `Kevin's collection of random scribblings`,
   pathPrefix: "/",
   title: `Kevin Fang`,
   disqusShortname: "kevinfang",
@@ -15,7 +15,7 @@ module.exports = {
     social: {
       twitter: `kevinfangtastic`,
       github: `thesnakefang`,
-      email: `kevinfan@alumni.cmu.edu`,
+      email: `me@kevinfang.tech`,
       linkedin: `hirekevinfang`,
       facebook: ``,
       instagram: `kevinfang.tech`,
