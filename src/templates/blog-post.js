@@ -12,7 +12,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const { title: siteTitle, slug } = data.site.siteMetadata
   const { previous, next } = pageContext
   const isPostTemplate = post.frontmatter.template === "post"
-  const isNextPostTemplate = next && next.node.frontmatter.template === "post"
+  const isNextPostTemplate = next && next.template === "post"
   /* const disqusConfig = {
     shortname: disqusShortname,
     config: { identifier: slug, title: post.frontmatter.title},
@@ -51,20 +51,18 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             >
               <li className="blog-post-nav-prev">
                 {previous && (
-                  <Link to={previous.node.fields.slug} rel="prev">
-                    ← {previous.node.frontmatter.title}
+                  <Link to={`/${previous.slug}`} rel="prev">
+                    ← {previous.title}
                   </Link>
                 )}
               </li>
+              <li className="blog-post-nav-next">
               {isNextPostTemplate && (
-                <li className="blog-post-nav-next">
-                  {next && (
-                    <Link to={next.node.fields.slug} rel="next">
-                      {next.node.frontmatter.title} →
-                    </Link>
-                  )}
-                </li>
+                <Link to={`/${next.slug}`} rel="next">
+                  {next.title} →
+                </Link>
               )}
+              </li>
             </ul>
           </nav>
           <hr />
@@ -81,8 +79,6 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   )
 }
 
-/*  {isPostTemplate && (<DiscussionEmbed {...disqusConfig} />)} */
-
 export default BlogPostTemplate
 
 export const pageQuery = graphql`
@@ -97,7 +93,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "YYYY-MM-DD")
         subheading
         description
         template

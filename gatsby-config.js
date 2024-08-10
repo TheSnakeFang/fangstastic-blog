@@ -80,6 +80,7 @@ module.exports = {
       },
     },
     `gatsby-adapter-netlify`,
+    `gatsby-plugin-netlify`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-image`,
     `gatsby-transformer-sharp`,
@@ -104,7 +105,43 @@ module.exports = {
         path: `${__dirname}/content/blog`,
       },
     },
-    `gatsby-plugin-sitemap`,
+    {
+      resolve: 'gatsby-plugin-sitemap',
+      options: {
+        query: `
+        {
+          site {
+            siteMetadata {
+              siteUrl
+            }
+          }
+          allSitePage {
+            nodes {
+              path
+            }
+          }
+        }
+      `,
+        resolveSiteUrl: ({site}) => site.siteMetadata.siteUrl,
+        serialize: ({ path }) => {
+          let priority = 0.6;
+          let changefreq = 'monthly';
+
+          if (path === '/') {
+            priority = 1.0;
+            changefreq = 'weekly';
+          } else if (path.includes('college-application-spike')) {
+            priority = 0.8;
+          }
+
+          return {
+            url: path,
+            changefreq,
+            priority,
+          };
+        },
+      },
+    },
     `gatsby-plugin-sass`,
     {
       resolve: `gatsby-plugin-sass`,

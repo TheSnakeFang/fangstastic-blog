@@ -1,6 +1,7 @@
 ---
 title: "About me"
 template: "page"
+date: "2024-08-09T19:56:07.939Z"
 ---
 
 Hello, I'm Kevin.
@@ -13,4 +14,4 @@ Interests include lunar rover landing site viewshed analysis, ballroom dance, in
 
 Currently GTM @ Replo (YC S21). Also working on an idea for a pricing model for content creator partnerships with sponsors + auto-email negotiation.
 
-If you want to chat, come on a podcast, or show me AI that will actually take my job, contact me at kevinfan@alumni.cmu.edu 🚀
+If you want to chat, come on a podcast, or show me AI that will actually take my job, contact me at me@kevinfang.tech 🚀

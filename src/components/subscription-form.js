@@ -1,48 +1,45 @@
-import React, { useState } from "react"
-import { createClient } from "@supabase/supabase-js"
-
-// Initialize Supabase client
-const supabase = createClient(
-  process.env.GATSBY_SUPABASE_URL,
-  process.env.GATSBY_SUPABASE_ANON_KEY,
-)
+import React, { useState } from "react";
 
 const SubscriptionForm = () => {
-  const [email, setEmail] = useState("")
-  const [message, setMessage] = useState("")
+  const [email, setEmail] = useState("");
+  const [message, setMessage] = useState("");
 
-  const validateEmail = email => {
-    const re = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/
-    return re.test(String(email).toLowerCase())
-  }
+  const validateEmail = (email) => {
+    const re = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+    return re.test(String(email).toLowerCase());
+  };
 
-  const handleSubmit = async e => {
-    e.preventDefault()
+  const handleSubmit = async (e) => {
+    e.preventDefault();
 
     if (!validateEmail(email)) {
-      setMessage("Please enter a valid email address.")
-      return
+      setMessage("Please enter a valid email address.");
+      return;
     }
 
     try {
-      const { data, error } = await supabase
-        .from("subscriptions")
-        .insert([{ email }])
+      const response = await fetch('/api/subscribe', {
+        method: 'POST',
+        body: JSON.stringify({ email }),
+      });
 
-      if (error) throw error
+      const data = await response.json();
 
-      setMessage("Thank you for subscribing!")
-      setEmail("")
+      if (!response.ok) {
+        throw new Error(data.message || 'An error occurred');
+      }
+
+      setMessage("Thank you for subscribing!");
+      setEmail("");
     } catch (error) {
-      if (error.code === "23505") {
-        // Unique constraint violation
-        setMessage("This email is already subscribed.")
+      if (error.message === "Email already exists") {
+        setMessage("This email is already subscribed.");
       } else {
-        setMessage("An error occurred. Please try again.")
-        console.error("Error:", error)
+        setMessage("An error occurred. Please try again.");
+        console.error("Error:", error);
       }
     }
-  }
+  };
 
   return (
     <div className="subscription-form">
@@ -51,7 +48,7 @@ const SubscriptionForm = () => {
         <input
           type="email"
           value={email}
-          onChange={e => setEmail(e.target.value)}
+          onChange={(e) => setEmail(e.target.value)}
           placeholder="Email"
           required
         />
@@ -62,13 +59,15 @@ const SubscriptionForm = () => {
       </p>
       {message && (
         <p
-          className={`message ${message.includes("error") ? "error" : "success"}`}
+          className={`message ${
+            message.includes("error") ? "error" : "success"
+          }`}
         >
           {message}
         </p>
       )}
     </div>
-  )
-}
+  );
+};
 
-export default SubscriptionForm
+export default SubscriptionForm;
