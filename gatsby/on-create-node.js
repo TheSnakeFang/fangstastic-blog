@@ -24,6 +24,9 @@ const onCreateNode = ({ node, actions, getNode }) => {
 }
 
 function createSlug(title, date) {
+  if (title.toLowerCase() === "about me") {
+    return "about-me"
+  }
   const formattedDate = date ? date.split("T")[0] : new Date().toISOString().split("T")[0] // YYYY-MM-DD
   const formattedTitle = title
     ? title.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)+/g, "")

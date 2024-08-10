@@ -1,5 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
+import { format, parseISO } from 'date-fns'
 // import { DiscussionEmbed } from "disqus-react";
 
 import Bio from "../components/bio"
@@ -29,7 +30,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <h2 itemProp="subheading">{post.frontmatter.subheading}</h2>
-          <p>{post.frontmatter.date}</p>
+          <p>{format(parseISO(post.frontmatter.date), "MMMM do, yyyy")}</p>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}

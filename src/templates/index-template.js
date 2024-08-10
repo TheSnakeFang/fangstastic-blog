@@ -1,5 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
+import { format, parseISO } from 'date-fns'
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -49,7 +50,7 @@ const BlogIndex = ({ data, location, pageContext }) => {
                 <Link to={node.fields.slug}>
                   <h3>{node.frontmatter.title}</h3>
                 </Link>
-                <small>{node.frontmatter.date}</small>
+                <small>{format(parseISO(node.frontmatter.date), "MMMM do, yyyy")}</small>
                 <p>{node.frontmatter.description || node.excerpt}</p>
               </li>
             ))}
