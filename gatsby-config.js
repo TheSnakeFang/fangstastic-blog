@@ -79,7 +79,6 @@ module.exports = {
         ],
       },
     },
-    `gatsby-adapter-netlify`,
     `gatsby-plugin-netlify`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-image`,
